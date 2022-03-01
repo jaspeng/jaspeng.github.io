@@ -400,7 +400,8 @@ ul {
 
 
 .project-padding {
-	padding: 2vw;
+	padding-right: 2vw;
+	padding-left: 2vw;
 }
 .card {
   margin: 10px;
