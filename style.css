@@ -43,8 +43,8 @@ a:hover {
 	justify-content: center;
 	flex-wrap: wrap;
 	align-content: center;
-	padding-right: 2vw;
-	padding-left: 2vw; 
+	padding-right: 10vw;
+	padding-left: 10vw; 
 }
 
 .row {
