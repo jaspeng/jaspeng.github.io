@@ -402,6 +402,7 @@ ul {
   width: 100vw;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  box-sizing: border-box;
 }
 .card {
   margin: 10px;
