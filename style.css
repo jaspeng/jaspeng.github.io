@@ -398,15 +398,9 @@ ul {
   box-sizing: border-box;
 }
 
-.project-container {
-  display: flex;
-  width: 1040px;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-}
+
 .project-padding {
-	padding: 10vw;
+	padding: 2vw;
 }
 .card {
   margin: 10px;
