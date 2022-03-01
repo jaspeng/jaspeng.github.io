@@ -311,10 +311,9 @@ ul {
 	padding-bottom: 80px;
 	min-height:100vh;
 	background-color: #474d5a;
-}
-
-#experience-section * {
-	color:white;
+	color: rgb(50,50,50);
+	font-size: 112.5%;
+  	line-height: 1.6em;
 }
 
 
