@@ -111,10 +111,9 @@ a:hover {
 
 /**Home**/
 #home-section {
-	height: 100vh;
+	height: 30vh;
 	display: flex; 
-	background-image: url("assets/img/citybg.jpeg");
-	background-size: cover;
+	background: #1778f2;
 	align-items: center; 
 	justify-content: center;
 	flex-wrap: wrap;
