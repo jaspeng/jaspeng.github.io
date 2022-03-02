@@ -253,13 +253,13 @@ a:hover {
 }
  @media (min-width: 850px) {
 	 .education-item .education-date {
-		 position: absolute;
-		 left: -17.5rem;
-		 width: 15rem;
-		 text-align: right;
-		 font-weight: 200;
-     font-size: 15px;
-     padding-top: 15px;
+		position: absolute;
+		left: -17.5rem;
+		width: 15rem;
+		text-align: right;
+		font-weight: 200;
+     		font-size: 15px;
+     		padding-top: 5px;
 	}
 }
 
