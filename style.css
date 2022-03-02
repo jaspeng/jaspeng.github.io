@@ -222,7 +222,7 @@ a:hover {
 	padding:50px;
 	padding-bottom: 80px;
 	min-height:100vh;
-	background-color: #474d5a;
+	background-color: #dae3e7;
 	color: rgb(50,50,50);
 	font-size: 112.5%;
   	line-height: 1.6em;
@@ -335,10 +335,9 @@ a:hover {
   margin: 10px;
   background-color: #fff;
   border-radius: 10px;
-  border: 1px solid #9e8e8e;
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  width: 300px;
+  width: 350px;
 }
 .card-header img {
   width: 100%;
