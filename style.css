@@ -227,6 +227,7 @@ a:hover {
 .timeline-container {
   width: 1100px;
   justify-content: center;
+  padding-left: 15vw;
 }
 
 .education-item {
