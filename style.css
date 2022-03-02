@@ -218,8 +218,8 @@ a:hover {
 }
 
 #experience-section {
-	margin:50px;
 	min-height:100vh;
+	padding-bottom: 80px;
 	background-color: #f2f2f6;
 }
 
