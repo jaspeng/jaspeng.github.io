@@ -302,6 +302,10 @@ a:hover {
   margin-block-end: 0em; 
 }
 
+.card-text {
+    font-weight: 500;
+}
+
 h5 {
   display: block;
   margin-block-start: 0em;
