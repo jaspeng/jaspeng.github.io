@@ -222,7 +222,7 @@ a:hover {
 	padding:50px;
 	padding-bottom: 80px;
 	min-height:100vh;
-	background-color: #dae3e7;
+	background-color: white;
 }
 
 
@@ -261,19 +261,27 @@ a:hover {
 	}
 }
 
-.card-title {
-  font-weight: 300;
-  font-size: 23px;
+.container-exp {
+  border-radius: 5px; 
+  background-color: white;
+  border: solid #ddd;
+  border-width: 1px;
+  padding: 20px;
 }
-.card-subtitle {
-  padding-bottom: 10px;
-  font-weight: 300;
+
+.card-exp-title {
+  font-weight: 200;
+  font-size: 24px;
+}
+.card-exp-subtitle {
+  padding-bottom: 15px;
+  font-weight: 200;
   font-size: 18px;
   color: grey;
 }
-.card-text {
-  padding-bottom: 10px;
-  font-weight: 400;
+.card-exp-text {
+  
+  font-weight: 500;
   font-size: 15px;
   color: grey;
 }
