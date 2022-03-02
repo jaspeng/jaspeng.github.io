@@ -225,6 +225,9 @@ a:hover {
 	background-color: white;
 }
 
+.timeline-container {
+  width: 1100px; 
+}
 
 .education-item {
 	 border-left: 2px solid #2a5db0;
