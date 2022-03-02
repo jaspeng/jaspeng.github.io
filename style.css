@@ -221,6 +221,7 @@ a:hover {
 	min-height:100vh;
 	padding-bottom: 80px;
 	background-color: #f2f2f6;
+	justify-content: center;
 }
 
 .timeline-container {
@@ -269,7 +270,7 @@ a:hover {
   border: solid #ddd;
   border-width: 1px;
   padding: 20px;
-  width: 700px;
+  width: 550px;
 }
 
 .card-exp-body {
