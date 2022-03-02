@@ -222,11 +222,12 @@ a:hover {
 	padding:50px;
 	padding-bottom: 80px;
 	min-height:100vh;
-	background-color: white;
+	background-color: #f2f2f6;
 }
 
 .timeline-container {
-  width: 1100px; 
+  width: 1100px;
+  justify-content: center;
 }
 
 .education-item {
@@ -270,9 +271,16 @@ a:hover {
   border: solid #ddd;
   border-width: 1px;
   padding: 20px;
+  width: 700px;
 }
 
+.card-exp-body {
+  line-height: 1.3em;
+}
+
+
 .card-exp-title {
+  padding-top: 0px;
   font-weight: 200;
   font-size: 24px;
 }
