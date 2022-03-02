@@ -215,12 +215,10 @@ a:hover {
 
 #text .subtitle {
 	margin-bottom:40px;
-	display: flex;
 }
 
 #experience-section {
-	padding:50px;
-	padding-bottom: 80px;
+	margin:50px;
 	min-height:100vh;
 	background-color: #f2f2f6;
 }
