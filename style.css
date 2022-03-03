@@ -71,11 +71,12 @@ a.btn {
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
   font-family: 'Montserrat', arial, sans-serif;
-  padding: 12px 19px;
+  padding: 16px 23px;
   font-weight: 700;
   margin-right: 3vw;
   justify-content: flex-end;
   align-items: right;
+  border-radius: 10px;
   
 }
 .btn .fa,
@@ -132,6 +133,9 @@ a.dotted-link:hover {
   color: #49515a;
 }
 
+a:link {
+  text-decoration: none;
+}
 
 
 a {
@@ -272,6 +276,10 @@ a:hover {
   padding-top: 8px;
 }
 
+.button-content {
+  float: right;
+  align-items: center;
+}
 
 /**Home**/
 
