@@ -234,6 +234,7 @@ a:hover {
 }
 .header .profile-image {
   margin-right: 30px;
+  border-radius: 50%;
 }
 .header .profile-content .name {
   color: #49515a;
