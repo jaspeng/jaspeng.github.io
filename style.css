@@ -270,16 +270,11 @@ a:hover {
 
 /**Home**/
 #home-section {
-	height: 35vh;
-	display: flex; 
-	background: #2a5db0;
-	flex-wrap: wrap;
-	align-items: center;
-	color: white;
+	
 }
 
 #landing-page {
-	width: 90vw;
+	
 }
 
 
@@ -309,6 +304,7 @@ a:hover {
 /**About**/
 
 #about-section {
+	background-color: #f2f2f6;
 	
 }
 
