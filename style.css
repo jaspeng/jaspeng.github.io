@@ -286,7 +286,7 @@ a:hover {
 /* ======= Sections======= */
 .sections-wrapper {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 .section {
   margin-bottom: 30px;
