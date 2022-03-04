@@ -217,7 +217,7 @@ a:hover {
   font-weight: bold;
   float: right;
   justify-content: flex-end;
-  margin-left: 32vw;
+  margin-left: 26vw;
 }
 .header .container {
   display: flex;
@@ -286,7 +286,7 @@ ul.social {
 /* ======= Sections======= */
 .sections-wrapper {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 .section {
   margin-bottom: 30px;
