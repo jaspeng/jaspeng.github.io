@@ -71,13 +71,11 @@ a.btn {
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
   font-family: 'Montserrat', arial, sans-serif;
-  padding: 16px 23px;
-  font-weight: 700;
-  margin-right: 3vw;
-  justify-content: flex-end;
-  align-items: right;
+  padding: 15px 22px;
+  font-size: 13px;
+  font-weight: bold;
   border-radius: 10px;
-  
+  margin-top:0;
 }
 .btn .fa,
 a.btn .fa {
@@ -108,7 +106,7 @@ a.btn-cta-secondary,
   background: #479fc8;
   border: 1px solid #479fc8;
   color: #fff;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
 }
 a.btn-cta-secondary:hover,
@@ -120,18 +118,7 @@ a.btn-cta-secondary:hover,
 .text-highlight {
   color: #32383e;
 }
-.label-theme {
-  background: #3aaa64;
-  font-size: 12px;
-}
-a.dotted-link {
-  border-bottom: 1px dotted #778492;
-  color: #778492;
-}
-a.dotted-link:hover {
-  text-decoration: none;
-  color: #49515a;
-}
+
 
 a:link {
   text-decoration: none;
@@ -226,9 +213,17 @@ a:hover {
   border-top: 0px;
 }
 .header .btn {
-  margin-top: 60px;
+  margin-top: 0px;
   font-weight: bold;
+  float: right;
+  justify-content: flex-end;
+  margin-left: 32vw;
 }
+.header .container {
+  display: flex;
+}
+
+
 .header .profile-image {
   margin-left: 3vw;
   margin-right: 30px;
@@ -241,6 +236,7 @@ a:hover {
   margin-bottom: 5px;
   margin-top: 30px;
   align-items: left;
+  font-weight: 700;
 
 }
 .header .profile-content .desc {
@@ -281,12 +277,16 @@ a:hover {
   align-items: center;
 }
 
+ul.social {
+  margin-left: -40px;
+}
+
 /**Home**/
 
 /* ======= Sections======= */
 .sections-wrapper {
   padding-top: 60px;
-  padding-bottom: 0px;
+  padding-bottom: 60px;
 }
 .section {
   margin-bottom: 30px;
