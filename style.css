@@ -306,6 +306,10 @@ ul.social {
   font-size: 14px;
 }
 
+.section .content > p {
+  font-weight: 500;
+}
+
 /**About**/
 
 #about-section {
@@ -488,7 +492,7 @@ h6 {
 	padding-left: 2vw;
 }
 .card {
-  margin: 10px;
+  margin: 16px;
   background-color: #fff;
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
@@ -691,7 +695,7 @@ h6 {
 }
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   color: #999999;
   font-weight: 600;
   padding-left: 25px;
